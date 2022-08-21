@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("git12");
         System.out.println("git123456789");
         System.out.println("git444444");
+        System.out.println("hot-fix test");
     }
 }
